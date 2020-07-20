@@ -1,0 +1,17 @@
+name,rental_amount,"dense_rank() over (order by AVG(pay.amount) desc)"
+Sports,5314.21,3
+Sci-Fi,4756.98,7
+Animation,4656.30,12
+Drama,4587.39,6
+Comedy,4383.58,1
+Action,4375.85,13
+New,4351.62,2
+Games,4281.33,4
+Foreign,4270.67,9
+Family,4226.07,16
+Documentary,4217.52,11
+Horror,3722.54,5
+Children,3655.55,15
+Classics,3639.59,14
+Travel,3549.64,8
+Music,3417.72,10

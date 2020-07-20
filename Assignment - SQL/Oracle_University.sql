@@ -1,0 +1,34 @@
+create_database:=University;
+CREATE TABLE Students (
+std_name VARCHAR(15) NOT NULL,
+std_id NUMBER(10) PRIMARY KEY,
+std_username VARCHAR(30),
+std_current_address VARCHAR(100) NOT NULL,
+std_phone NUMBER(20) NOT NULL,
+std_permanent_address VARCHAR(100) NOT NULL,
+std_perm_phone NUMBER(20) NOT NULL,
+std_birthdate DATE,
+std_sex CHAR(6) NOT NULL,
+std_class VARCHAR(20) NOT NULL,
+std_college VARCHAR(50) NOT NULL,
+std_major_department VARCHAR(30) NOT NULL,
+std_minor_department VARCHAR(30) NOT NULL,
+std_certificate_program VARCHAR(30) NOT NULL,
+std_degree_program VARCHAR(30) NOT NULL
+);
+
+CREATE TABLE College(
+NAME VARCHAR(20) PRIMARY KEY,
+DEPT_CODE VARCHAR(20) PRIMARY KEY,
+OFFICE_NUMBER NUMBER(30) NOT NULL,
+OFFICE_PHONE NUMBER(30) NOT NULL
+);
+
+SELECT * FROM College;
+
+CREATE TABLE DEPARTMENT(
+NAME VARCHAR(20) NOT NULL,
+DEPT_CODE VARCHAR(20) PRIMARY KEY,
+OFFICE_NUMBER NUMBER(30) NOT NULL,
+OFFICE_PHONE NUMBER(30) NOT NULL
+);

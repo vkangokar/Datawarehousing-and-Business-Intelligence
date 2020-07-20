@@ -1,0 +1,598 @@
+COUNTRY,CITY,Rental Amount
+Spain,A Corua (La Corua),107.71
+Saudi Arabia,Abha,96.76
+United Arab Emirates,Abu Dhabi,107.68
+Mexico,Acua,113.74
+Turkey,Adana,112.74
+Ethiopia,Addis Abeba,91.77
+Yemen,Aden,137.69
+India,Adoni,101.78
+India,Ahmadnagar,128.67
+Japan,Akishima,109.72
+United States,Akron,146.69
+United Arab Emirates,al-Ayn,106.75
+Saudi Arabia,al-Hawiya,80.82
+Bahrain,al-Manama,112.75
+Sudan,al-Qadarif,57.81
+Saudi Arabia,al-Qatif,110.75
+Italy,Alessandria,91.79
+India,Allappuzha (Alleppey),98.76
+Mexico,Allende,105.75
+Argentina,Almirante Brown,101.75
+Brazil,Alvorada,96.74
+India,Ambattur,120.74
+Netherlands,Amersfoort,93.77
+India,Amroha,88.76
+Brazil,Angra dos Reis,134.7
+Brazil,Anpolis,93.75
+Chile,Antofagasta,127.73
+Brazil,Aparecida de Goinia,95.77
+Netherlands,Apeldoorn,194.61
+Brazil,Araatuba,100.72
+Iran,Arak,92.73
+Puerto Rico,Arecibo,150.66
+United States,Arlington,109.75
+Israel,Ashdod,137.67
+Turkmenistan,Ashgabat,136.73
+Israel,Ashqelon,86.81
+Paraguay,Asuncin,87.79
+Greece,Athenai,135.74
+Russian Federation,Atinsk,105.71
+Mexico,Atlixco,141.67
+United States,Augusta-Richmond County,105.73
+United States,Aurora,198.5
+Argentina,Avellaneda,132.7
+Brazil,Bag,78.84
+Argentina,Baha Blanca,128.72
+China,Baicheng,117.71
+China,Baiyin,120.74
+Azerbaijan,Baku,109.73
+Russian Federation,Balaiha,100.78
+Turkey,Balikesir,152.63
+India,Balurghat,91.74
+Cameroon,Bamenda,99.77
+Brunei,Bandar Seri Begawan,113.65
+Gambia,Banjul,129.7
+Venezuela,Barcelona,66.79
+Switzerland,Basel,58.86
+Israel,Bat Yam,84.83
+Turkey,Batman,145.67
+Algeria,Batna,112.72
+Cambodia,Battambang,98.74
+Philippines,Baybay,129.7
+Philippines,Bayugan,92.75
+Algeria,Bchar,96.75
+Mozambique,Beira,151.63
+United States,Bellevue,91.8
+Brazil,Belm,145.68
+Angola,Benguela,111.75
+Morocco,Beni-Mellal,82.78
+Nigeria,Benin City,126.72
+Italy,Bergamo,151.64
+India,Berhampore (Baharampur),75.79
+Switzerland,Bern,109.75
+India,Bhavnagar,106.77
+India,Bhilwara,161.68
+India,Bhimavaram,118.71
+India,Bhopal,134.68
+India,Bhusawal,103.74
+India,Bijapur,175.61
+Egypt,Bilbays,110.72
+China,Binzhou,141.67
+Nepal,Birgunj,116.78
+Philippines,Bislig,79.79
+Brazil,Blumenau,126.73
+Brazil,Boa Vista,130.68
+South Africa,Boksburg,135.68
+Romania,Botosani,124.67
+South Africa,Botshabelo,95.72
+United Kingdom,Bradford,87.77
+Brazil,Braslia,91.78
+Slovakia,Bratislava,89.74
+Italy,Brescia,147.69
+France,Brest,79.8
+Italy,Brindisi,123.7
+United States,Brockton,121.74
+Romania,Bucuresti,110.71
+Colombia,Buenaventura,93.75
+Poland,Bydgoszcz,52.88
+Philippines,Cabuyao,149.65
+Peru,Callao,115.74
+Vietnam,Cam Ranh,152.68
+United States,Cape Coral,221.55
+Venezuela,Caracas,97.74
+Mexico,Carmen,96.78
+Philippines,Cavite,124.7
+French Guiana,Cayenne,103.78
+Mexico,Celaya,108.74
+India,Chandrapur,119.68
+Taiwan,Changhwa,155.59
+China,Changzhou,154.6
+India,Chapra,100.8
+"Virgin Islands, U.S.",Charlotte Amalie,122.68
+South Africa,Chatsworth,74.83
+South Korea,Cheju,87.79
+Taiwan,Chiayi,97.76
+Moldova,Chisinau,127.66
+Taiwan,Chungho,105.75
+Indonesia,Cianjur,80.74
+Indonesia,Ciomas,142.66
+Indonesia,Ciparay,90.77
+United States,Citrus Heights,117.72
+Holy See (Vatican City State),Citt del Vaticano,152.66
+Paraguay,Ciudad del Este,80.82
+United States,Clarksville,83.82
+Mexico,Coacalco de Berriozbal,104.78
+Mexico,Coatzacoalcos,138.71
+United States,Compton,97.74
+Chile,Coquimbo,126.72
+Argentina,Crdoba,95.75
+Mexico,Cuauhtmoc,139.71
+Mexico,Cuautla,114.69
+Mexico,Cuernavaca,126.71
+Venezuela,Cuman,113.71
+Poland,Czestochowa,108.75
+Pakistan,Dadu,121.69
+United States,Dallas,124.72
+China,Datong,122.69
+Latvia,Daugavpils,142.7
+Philippines,Davao,126.69
+China,Daxian,100.67
+United States,Dayton,113.74
+Nigeria,Deba Habe,104.77
+Turkey,Denizli,88.82
+Bangladesh,Dhaka,118.72
+India,Dhule (Dhulia),88.78
+China,Dongying,104.77
+Spain,Donostia-San Sebastin,158.69
+Colombia,Dos Quebradas,143.68
+Germany,Duisburg,139.67
+United Kingdom,Dundee,94.74
+Russian Federation,Dzerzinsk,79.78
+Netherlands,Ede,106.77
+Nigeria,Effon-Alaiye,117.73
+Bolivia,El Alto,87.76
+Mexico,El Fuerte,128.67
+United States,El Monte,79.79
+Russian Federation,Elista,98.79
+China,Emeishan,124.74
+Netherlands,Emmen,100.74
+China,Enshi,59.86
+Germany,Erlangen,135.71
+Argentina,Escobar,102.74
+Iran,Esfahan,99.75
+Turkey,Eskisehir,95.75
+India,Etawah,109.74
+Argentina,Ezeiza,76.77
+China,Ezhou,89.77
+French Polynesia,Faaa,99.76
+Taiwan,Fengshan,139.66
+India,Firozabad,99.77
+Colombia,Florencia,109.75
+United States,Fontana,138.67
+Japan,Fukuyama,130.68
+Tuvalu,Funafuti,120.74
+China,Fuyu,151.66
+China,Fuzhou,50.86
+India,Gandhinagar,71.81
+United States,Garden Grove,113.74
+United States,Garland,96.73
+Canada,Gatineau,95.78
+Turkey,Gaziantep,101.78
+Spain,Gijn,84.78
+Philippines,Gingoog,97.72
+Brazil,Goinia,133.72
+Indonesia,Gorontalo,88.8
+United States,Grand Prairie,82.79
+Austria,Graz,119.71
+United States,Greensboro,126.68
+Mexico,Guadalajara,95.77
+Brazil,Guaruj,114.76
+Brazil,guas Lindas de Gois,93.76
+India,Gulbarga,70.81
+Philippines,Hagonoy,70.82
+China,Haining,90.79
+Vietnam,Haiphong,103.75
+India,Haldia,114.69
+Canada,Halifax,91.75
+India,Halisahar,170.67
+Germany,Halle/Saale,120.69
+China,Hami,86.79
+New Zealand,Hamilton,92.76
+Vietnam,Hanoi,119.69
+Mexico,Hidalgo,105.75
+Japan,Higashiosaka,98.75
+Japan,Hino,87.82
+Japan,Hiroshima,131.7
+Yemen,Hodeida,160.68
+China,Hohhot,110.66
+India,Hoshiarpur,85.79
+Taiwan,Hsichuh,146.64
+China,Huaian,89.75
+India,Hubli-Dharwad,62.85
+Mexico,Huejutla de Reyes,113.75
+Mexico,Huixquilucan,132.7
+Peru,Hunuco,126.71
+Brazil,Ibirit,97.8
+Egypt,Idfu,89.77
+Nigeria,Ife,137.7
+Nigeria,Ikerre,141.63
+Philippines,Iligan,99.73
+Nigeria,Ilorin,146.69
+Philippines,Imus,138.71
+Turkey,Inegl,88.74
+Malaysia,Ipoh,114.74
+Japan,Isesaki,103.77
+Russian Federation,Ivanovo,100.77
+Japan,Iwaki,117.74
+Japan,Iwakuni,128.71
+Japan,Iwatsuki,111.73
+Japan,Izumisano,104.7
+Sri Lanka,Jaffna,116.7
+India,Jaipur,98.75
+Indonesia,Jakarta,94.76
+Kuwait,Jalib al-Shuyukh,111.74
+Bangladesh,Jamalpur,127.68
+Russian Federation,Jaroslavl,91.79
+Poland,Jastrzebie-Zdrj,127.68
+Saudi Arabia,Jedda,130.72
+Russian Federation,Jelets,102.76
+India,Jhansi,127.71
+China,Jinchang,135.66
+China,Jining,130.73
+China,Jinzhou,117.7
+India,Jodhpur,76.78
+South Africa,Johannesburg,109.73
+United States,Joliet,133.72
+Mexico,Jos Azueta,107.73
+Brazil,Juazeiro do Norte,108.78
+Brazil,Juiz de Fora,134.73
+China,Junan,91.75
+Mexico,Jurez,88.75
+Afghanistan,Kabul,67.82
+Nigeria,Kaduna,91.78
+Japan,Kakamigahara,122.71
+Russian Federation,Kaliningrad,92.79
+Poland,Kalisz,104.75
+Japan,Kamakura,84.78
+India,Kamarhati,104.74
+Ukraine,Kamjanets-Podilskyi,117.71
+Russian Federation,Kamyin,122.74
+Japan,Kanazawa,99.77
+India,Kanchrapara,65.84
+United States,Kansas City,105.75
+India,Karnal,152.65
+India,Katihar,89.75
+Iran,Kermanshah,93.74
+Turkey,Kilis,89.78
+South Africa,Kimberley,125.76
+South Korea,Kimchon,91.76
+Saint Vincent and the Grenadines,Kingstown,96.75
+Russian Federation,Kirovo-Tepetsk,133.71
+Kenya,Kisumu,109.75
+Zambia,Kitwe,134.67
+South Africa,Klerksdorp,107.74
+Russian Federation,Kolpino,162.62
+Ukraine,Konotop,89.79
+Japan,Koriyama,74.78
+China,Korla,86.72
+Russian Federation,Korolev,121.69
+Hong Kong,Kowloon and New Kowloon,142.7
+Yugoslavia,Kragujevac,151.67
+Turkey,Ktahya,73.82
+Malaysia,Kuching,115.73
+India,Kumbakonam,68.82
+Japan,Kurashiki,89.76
+Russian Federation,Kurgan,110.72
+Russian Federation,Kursk,120.77
+Japan,Kuwana,118.75
+Mexico,La Paz,95.78
+Argentina,La Plata,134.68
+Dominican Republic,La Romana,99.77
+China,Laiwu,92.73
+United States,Lancaster,133.7
+China,Laohekou,97.74
+Philippines,Lapu-Lapu,129.68
+United States,Laredo,93.72
+Switzerland,Lausanne,83.78
+France,Le Mans,71.8
+China,Lengshuijiang,159.64
+China,Leshan,134.68
+Indonesia,Lhokseumawe,134.66
+China,Liaocheng,124.66
+Latvia,Liepaja,119.7
+Malawi,Lilongwe,123.72
+Peru,Lima,126.68
+United States,Lincoln,112.75
+Austria,Linz,68.79
+Russian Federation,Lipetsk,114.74
+Italy,Livorno,108.76
+Russian Federation,Ljubertsy,106.73
+Ecuador,Loja,129.72
+United Kingdom,London,180.52
+Poland,Lublin,89.79
+"Congo, The Democratic Republic of the",Lubumbashi,101.74
+Taiwan,Lungtan,123.66
+Brazil,Luzinia,76.77
+Indonesia,Madiun,115.72
+Madagascar,Mahajanga,93.78
+Russian Federation,Maikop,155.68
+Sweden,Malm,144.66
+United States,Manchester,91.76
+Philippines,Mandaluyong,122.71
+Pakistan,Mandi Bahauddin,80.83
+Germany,Mannheim,151.65
+Venezuela,Maracabo,111.77
+Pakistan,Mardan,115.7
+Brazil,Maring,107.77
+Oman,Masqat,89.77
+Mexico,Matamoros,71.77
+Japan,Matsue,72.8
+China,Meixian,110.72
+United States,Memphis,174.66
+Argentina,Merlo,126.7
+Mexico,Mexicali,114.75
+India,Miraj,132.71
+Egypt,Mit Ghamr,124.73
+Japan,Miyakonojo,127.71
+Belarus,Mogiljov,81.76
+Belarus,Molodetno,195.58
+Mexico,Monclova,99.74
+Myanmar,Monywa,112.7
+Russian Federation,Moscow,142.66
+Iraq,Mosul,111.73
+Ukraine,Mukateve,128.7
+India,Munger (Monghyr),111.68
+Tanzania,Mwanza,115.71
+"Congo, The Democratic Republic of the",Mwene-Ditu,110.76
+Myanmar,Myingyan,81.78
+India,Mysore,133.73
+Mozambique,Naala-Porto,133.75
+Russian Federation,Nabereznyje Telny,113.71
+Morocco,Nador,110.73
+India,Nagaon,83.79
+Japan,Nagareyama,115.7
+Iran,Najafabad,157.65
+South Korea,Naju,144.67
+Thailand,Nakhon Sawan,152.67
+Vietnam,Nam Dinh,141.7
+Angola,Namibe,103.73
+Taiwan,Nantou,144.62
+China,Nanyang,95.77
+Chad,NDjamna,135.68
+South Africa,Newcastle,116.77
+Mexico,Nezahualcyotl,91.7
+Vietnam,Nha Trang,134.68
+Russian Federation,Niznekamsk,76.83
+Yugoslavia,Novi Sad,107.76
+Russian Federation,Novoterkassk,74.8
+Tonga,Nukualofa,73.82
+Greenland,Nuuk,137.66
+Kenya,Nyeri,143.71
+Venezuela,Ocumare del Tuy,92.79
+Nigeria,Ogbomosho,144.68
+Pakistan,Okara,91.79
+Japan,Okayama,99.79
+Japan,Okinawa,103.77
+Czech Republic,Olomouc,133.71
+Sudan,Omdurman,169.65
+Japan,Omiya,139.7
+Nigeria,Ondo,101.75
+Japan,Onomichi,143.71
+Canada,Oshawa,93.78
+Turkey,Osmaniye,131.73
+Ukraine,ostka,103.76
+Japan,Otsu,135.74
+Finland,Oulu,101.74
+Spain,Ourense (Orense),177.6
+Nigeria,Owo,118.73
+Nigeria,Oyo,73.8
+Philippines,Ozamis,128.73
+South Africa,Paarl,114.72
+Mexico,Pachuca de Soto,72.82
+Thailand,Pak Kret,117.7
+India,Palghat (Palakkad),123.71
+Indonesia,Pangkal Pinang,94.82
+French Polynesia,Papeete,135.7
+India,Parbhani,137.69
+India,Pathankot,77.82
+India,Patiala,129.7
+Greece,Patras,96.72
+Kazakstan,Pavlodar,77.77
+Indonesia,Pemalang,111.73
+United States,Peoria,108.7
+Colombia,Pereira,98.77
+Cambodia,Phnom Penh,92.73
+China,Pingxiang,95.78
+Russian Federation,Pjatigorsk,119.74
+Poland,Plock,121.76
+Brazil,Po,117.72
+Puerto Rico,Ponce,103.73
+Indonesia,Pontianak,152.65
+Brazil,Poos de Caldas,116.68
+Ecuador,Portoviejo,119.72
+Indonesia,Probolinggo,158.66
+India,Pudukkottai,119.73
+India,Pune,110.7
+India,Purnea (Purnia),126.73
+Indonesia,Purwakarta,87.81
+North Korea,Pyongyang,113.69
+Egypt,Qalyub,94.77
+China,Qinhuangdao,140.68
+Iran,Qomsheh,186.62
+Argentina,Quilmes,117.76
+India,Rae Bareli,141.69
+India,Rajkot,101.78
+India,Rampur,119.7
+Chile,Rancagua,73.84
+India,Ranchi,80.79
+Canada,Richmond Hill,167.62
+Brazil,Rio Claro,103.73
+China,Rizhao,88.79
+United States,Roanoke,95.77
+Ecuador,Robamba,140.69
+United States,Rockford,114.72
+Bulgaria,Ruse,112.76
+South Africa,Rustenburg,112.73
+Netherlands,s-Hertogenbosch,90.77
+Germany,Saarbrcken,87.76
+Japan,Sagamihara,106.76
+United States,Saint Louis,84.77
+Runion,Saint-Denis,216.54
+Morocco,Sal,113.78
+Oman,Salala,97.73
+Mexico,Salamanca,157.65
+United States,Salinas,129.7
+Austria,Salzburg,118.72
+India,Sambhal,98.77
+United States,San Bernardino,128.73
+Dominican Republic,San Felipe de Puerto Plata,107.7
+Mexico,San Felipe del Progreso,132.7
+Mexico,San Juan Bautista Tuxtepec,104.74
+Paraguay,San Lorenzo,106.77
+Argentina,San Miguel de Tucumn,82.76
+Yemen,Sanaa,100.74
+Brazil,Santa Brbara dOeste,194.61
+Argentina,Santa F,122.73
+Philippines,Santa Rosa,167.67
+Spain,Santiago de Compostela,77.8
+Dominican Republic,Santiago de los Caballeros,110.76
+Brazil,Santo Andr,129.64
+China,Sanya,107.74
+Japan,Sasebo,118.68
+India,Satna,121.7
+Egypt,Sawhaj,120.74
+Russian Federation,Serpuhov,85.8
+Iran,Shahr-e Kord,84.77
+China,Shanwei,110.7
+China,Shaoguan,115.71
+United Arab Emirates,Sharja,118.73
+China,Shenzhen,71.81
+Pakistan,Shikarpur,115.71
+India,Shimoga,94.79
+Japan,Shimonoseki,140.64
+India,Shivapuri,94.78
+Egypt,Shubra al-Khayma,153.66
+Germany,Siegen,86.81
+India,Siliguri (Shiliguri),138.66
+Ukraine,Simferopol,130.74
+Colombia,Sincelejo,145.7
+Iran,Sirjan,99.8
+Turkey,Sivas,111.74
+Algeria,Skikda,173.63
+Russian Federation,Smolensk,107.76
+Brazil,So Bernardo do Campo,98.78
+Brazil,So Leopoldo,98.78
+Colombia,Sogamoso,117.76
+Nigeria,Sokoto,109.75
+Thailand,Songkhla,148.67
+Brazil,Sorocaba,131.67
+South Africa,Soshanguve,108.72
+Tunisia,Sousse,78.77
+Anguilla,South Hill,106.65
+United Kingdom,Southampton,117.77
+United Kingdom,Southend-on-Sea,120.71
+United Kingdom,Southport,83.79
+South Africa,Springs,101.75
+Bulgaria,Stara Zagora,91.74
+United States,Sterling Heights,139.71
+United Kingdom,Stockport,109.78
+Bolivia,Sucre,95.77
+China,Suihua,99.76
+Peru,Sullana,99.75
+Turkey,Sultanbeyli,112.77
+Azerbaijan,Sumqayit,135.7
+Ukraine,Sumy,159.72
+Malaysia,Sungai Petani,138.68
+United States,Sunnyvale,116.69
+Indonesia,Surakarta,89.74
+Russian Federation,Syktyvkar,78.8
+Italy,Syrakusa,132.72
+Hungary,Szkesfehrvr,111.71
+Tanzania,Tabora,110.73
+Iran,Tabriz,135.69
+Saudi Arabia,Tabuk,104.74
+American Samoa,Tafuna,71.8
+Philippines,Taguig,99.7
+Yemen,Taizz,111.72
+Philippines,Talavera,97.79
+United States,Tallahassee,50.85
+Japan,Tama,101.74
+India,Tambaram,115.71
+Philippines,Tanauan,161.65
+Argentina,Tandil,109.68
+Bangladesh,Tangail,155.65
+Taiwan,Tanshui,118.72
+Philippines,Tanza,175.58
+Philippines,Tarlac,79.81
+Turkey,Tarsus,66.84
+Estonia,Tartu,115.7
+Russian Federation,Teboksary,73.77
+Indonesia,Tegal,66.81
+Israel,Tel Aviv-Jaffa,112.7
+Mozambique,Tete,58.82
+China,Tianjin,107.77
+China,Tiefa,127.71
+China,Tieli,83.81
+Turkey,Tokat,141.66
+South Korea,Tonghae,117.75
+China,Tongliao,118.68
+Mexico,Torren,98.73
+Taiwan,Touliu,113.73
+France,Toulon,92.76
+France,Toulouse,129.68
+Faroe Islands,Trshavn,114.72
+Taiwan,Tsaotun,64.81
+Japan,Tsuyama,105.79
+Philippines,Tuguegarao,107.74
+Poland,Tychy,136.64
+India,Udaipur,119.74
+Italy,Udine,74.81
+Japan,Ueda,115.68
+South Korea,Uijongbu,132.68
+India,Uluberia,116.69
+Japan,Urawa,127.66
+Mexico,Uruapan,151.67
+Turkey,Usak,147.65
+Russian Federation,Usolje-Sibirskoje,159.67
+India,Uttarpara-Kotrung,110.74
+Liechtenstein,Vaduz,114.72
+Venezuela,Valencia,90.78
+Venezuela,Valle de la Pascua,109.72
+Mexico,Valle de Santiago,80.76
+India,Valparai,166.65
+Canada,Vancouver,144.7
+India,Varanasi (Benares),100.76
+Argentina,Vicente Lpez,101.74
+India,Vijayawada,127.75
+Brazil,Vila Velha,141.71
+Lithuania,Vilnius,73.76
+Vietnam,Vinh,93.78
+Brazil,Vitria de Santo Anto,103.72
+United States,Warren,122.72
+China,Weifang,115.71
+Germany,Witten,108.75
+Poland,Wroclaw,135.72
+China,Xiangfan,122.66
+China,Xiangtan,99.78
+China,Xintai,91.76
+China,Xinxiang,127.7
+India,Yamuna Nagar,103.72
+Nauru,Yangor,148.69
+China,Yantai,98.8
+Cameroon,Yaound,100.69
+Armenia,Yerevan,118.75
+China,Yinchuan,139.7
+China,Yingkou,80.77
+United Kingdom,York,129.72
+China,Yuncheng,130.7
+China,Yuzhou,103.75
+China,Zalantun,91.77
+Tanzania,Zanzibar,114.73
+China,Zaoyang,74.78
+Mexico,Zapopan,69.83
+Nigeria,Zaria,95.75
+Russian Federation,Zeleznogorsk,89.76
+Kazakstan,Zhezqazghan,120.71
+China,Zhoushan,159.68
+Senegal,Ziguinchor,100.75

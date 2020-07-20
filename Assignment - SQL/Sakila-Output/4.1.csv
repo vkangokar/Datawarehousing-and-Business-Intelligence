@@ -1,0 +1,598 @@
+Customer_name,rental_amount,rental_quantity,active,country,city
+"ABNEY RAFAEL",97.79,21,1,Philippines,Talavera
+"ADAM NATHANIEL",133.72,28,1,"United States",Joliet
+"ADAMS KATHLEEN",92.73,27,1,Iran,Arak
+"ALEXANDER DIANA",105.73,27,1,"United States","Augusta-Richmond County"
+"ALLARD GORDON",160.68,32,1,Yemen,Hodeida
+"ALLEN SHIRLEY",126.69,31,1,Philippines,Davao
+"ALVAREZ CHARLENE",114.73,27,1,Tanzania,Zanzibar
+"ANDERSON LISA",106.76,24,1,Japan,Sagamihara
+"ANDREW JOSE",96.75,25,1,"Saint Vincent and the Grenadines",Kingstown
+"ANDREWS IDA",76.77,23,1,Brazil,Luzinia
+"AQUINO OSCAR",99.80,20,1,Iran,Sirjan
+"ARCE HARRY",157.65,35,0,Iran,Najafabad
+"ARCHULETA JORDAN",132.70,30,1,Argentina,Avellaneda
+"ARMSTRONG MELANIE",92.75,25,1,Philippines,Bayugan
+"ARNOLD BEATRICE",119.74,26,1,India,Udaipur
+"ARSENAULT KENT",134.73,27,1,Brazil,"Juiz de Fora"
+"ARTIS CARL",106.77,23,1,Paraguay,"San Lorenzo"
+"ASHCRAFT DARRYL",76.77,23,1,Argentina,Ezeiza
+"ASHER TYRONE",112.76,24,1,Bulgaria,Ruse
+"AUSTIN ALMA",151.65,35,1,Germany,Mannheim
+"BAILEY MILDRED",98.75,25,1,India,Jaipur
+"BAKER PAMELA",95.77,23,1,China,Nanyang
+"BALES MARTIN",103.73,27,1,Angola,Namibe
+"BANDA EVERETT",110.72,28,1,Egypt,Bilbays
+"BANKS JESSIE",91.74,26,1,Bulgaria,"Stara Zagora"
+"BARBEE CLAYTON",96.74,26,1,Brazil,Alvorada
+"BARCLAY ANGEL",115.68,32,1,Japan,Ueda
+"BARFIELD NICHOLAS",145.68,32,1,Brazil,Belm
+"BARKLEY VICTOR",91.76,24,1,"United States",Manchester
+"BARNES RACHEL",84.78,22,1,Japan,Kamakura
+"BARNETT CAROLE",108.70,30,1,"United States",Peoria
+"BARRETT TRACEY",118.73,27,1,Nigeria,Owo
+"BATES DAISY",162.62,38,1,"Russian Federation",Kolpino
+"BAUGH EDWARD",114.72,28,1,"Faroe Islands",Trshavn
+"BAUGHMAN ROBERT",92.79,21,1,"Russian Federation",Kaliningrad
+"BELL JEAN",115.73,27,1,Malaysia,Kuching
+"BENNER CHESTER",99.76,24,1,China,Suihua
+"BENNETT JANE",100.72,28,1,Brazil,Araatuba
+"BERRY REGINA",135.66,34,1,China,Jinchang
+"BESS CHARLIE",120.74,26,1,China,Baiyin
+"BETANCOURT MIGUEL",135.71,29,1,Germany,Erlangen
+"BILLINGSLEY HENRY",73.82,18,1,Tonga,Nukualofa
+"BISHOP AGNES",98.77,23,1,India,Sambhal
+"BLACK VALERIE",121.74,26,1,"United States",Brockton
+"BLAKELY DEREK",97.72,28,1,Philippines,Gingoog
+"BOLIN MATHEW",90.78,22,1,Venezuela,Valencia
+"BONE DON",133.75,25,1,Mozambique,Naala-Porto
+"BOSTIC LEON",109.75,25,1,Colombia,Florencia
+"BOUDREAU BOBBY",106.65,35,1,Anguilla,"South Hill"
+"BOURQUE DERRICK",95.78,22,1,Canada,Gatineau
+"BOWENS CLIFFORD",113.71,29,1,"Russian Federation","Nabereznyje Telny"
+"BOWMAN CAROLINE",50.85,15,1,"United States",Tallahassee
+"BOX BYRON",120.71,29,1,Kazakstan,Zhezqazghan
+"BOYD EMMA",94.77,23,1,Egypt,Qalyub
+"BRADLEY ANA",174.66,34,1,"United States",Memphis
+"BREAUX TED",117.71,29,1,China,Baicheng
+"BREWER VICKIE",120.69,31,1,Germany,Halle/Saale
+"BRINSON RUSSELL",136.64,36,1,Poland,Tychy
+"BROOKS BEVERLY",97.76,24,1,Taiwan,Chiayi
+"BROTHERS CHRIS",84.78,22,1,Spain,Gijn
+"BROWN ELIZABETH",144.62,38,1,Taiwan,Nantou
+"BROWNLEE GUY",159.68,32,1,China,Zhoushan
+"BRYANT PAULA",77.82,18,1,India,Pathankot
+"BULL WESLEY",177.60,40,1,Spain,"Ourense (Orense)"
+"BUNN TIMOTHY",91.78,22,1,Brazil,Braslia
+"BURK EDWIN",116.77,23,1,"South Africa",Newcastle
+"BURKE LYDIA",82.76,24,1,Argentina,"San Miguel de Tucumn"
+"BURLESON SIDNEY",108.75,25,1,Poland,Czestochowa
+"BURNS APRIL",94.74,26,1,"United Kingdom",Dundee
+"BURTON COLLEEN",87.76,24,1,Germany,Saarbrcken
+"BUSTAMANTE LEROY",118.68,32,1,China,Tongliao
+"BUTLER LOIS",113.65,35,1,Brunei,"Bandar Seri Begawan"
+"BUTTERFIELD ALLEN",85.79,21,1,India,Hoshiarpur
+"BYRD DEANNA",107.74,26,1,Philippines,Tuguegarao
+"CABRAL DANIEL",97.80,20,1,Brazil,Ibirit
+"CALDWELL KAY",98.80,20,1,China,Yantai
+"CAMPBELL CATHERINE",142.66,34,1,"Russian Federation",Moscow
+"CARBONE CHAD",89.75,25,1,India,Katihar
+"CARLSON TERRY",127.71,29,1,Japan,Miyakonojo
+"CARPENTER LORETTA",93.78,22,1,Canada,Oshawa
+"CARR EILEEN",80.82,18,1,Paraguay,"Ciudad del Este"
+"CARRANZA TONY",73.79,21,1,Japan,Koriyama
+"CARROLL JUNE",173.63,37,1,Algeria,Skikda
+"CARTER AMANDA",110.73,27,1,Morocco,Nador
+"CARY TIM",175.61,39,1,India,Bijapur
+"CASILLAS ALFRED",120.74,26,1,Egypt,Sawhaj
+"CASTILLO GERTRUDE",137.66,34,1,Greenland,Nuuk
+"CASTRO JENNY",103.73,27,1,"Puerto Rico",Ponce
+"CAUSEY PHILIP",121.69,31,1,"Russian Federation",Korolev
+"CHAMBERS KRISTINA",109.72,28,1,Venezuela,"Valle de la Pascua"
+"CHAPA VERNON",88.82,18,1,Turkey,Denizli
+"CHAPMAN TONYA",161.68,32,1,India,Bhilwara
+"CHAVEZ KRISTEN",87.82,18,1,Japan,Hino
+"CHEATHAM MARIO",112.72,28,1,Algeria,Batna
+"CHESTNUT PEDRO",103.76,24,1,Ukraine,ostka
+"CHISHOLM JOHNNIE",121.76,24,1,Poland,Plock
+"CHOATE RAMON",140.69,31,1,Ecuador,Robamba
+"CHRISTENSON NELSON",77.80,20,1,Spain,"Santiago de Compostela"
+"CHURCHILL FERNANDO",117.75,25,1,"South Korea",Tonghae
+"CINTRON AUSTIN",83.81,19,1,China,Tieli
+"CLARK MICHELLE",155.65,35,1,Bangladesh,Tangail
+"CLARY ADRIAN",74.81,19,1,Italy,Udine
+"COLBY BERNARD",88.78,22,1,India,"Dhule (Dhulia)"
+"COLE TRACY",132.70,30,1,Mexico,Huixquilucan
+"COLEMAN KATHRYN",130.74,26,1,Ukraine,Simferopol
+"COLLAZO TOMMY",186.62,38,1,Iran,Qomsheh
+"COLLINS DIANE",169.65,35,1,Sudan,Omdurman
+"COOK GLORIA",135.70,30,1,"French Polynesia",Papeete
+"COOPER JOAN",84.77,23,1,"United States","Saint Louis"
+"CORNISH ALLAN",79.81,19,1,Philippines,Tarlac
+"CORNWELL BRETT",138.66,34,1,India,"Siliguri (Shiliguri)"
+"COUGHLIN CARLOS",106.77,23,1,India,Bhavnagar
+"COX JUDITH",100.67,33,0,China,Daxian
+"COY GARY",103.75,25,1,China,Yuzhou
+"CRAIG BOBBIE",80.76,24,1,Mexico,"Valle de Santiago"
+"CRAWFORD ESTHER",95.72,28,1,"South Africa",Botshabelo
+"CRAWLEY MAURICE",138.71,29,0,Mexico,Coatzacoalcos
+"CROMWELL IVAN",99.74,26,1,Mexico,Monclova
+"CROUSE ALBERT",99.77,23,1,Cameroon,Bamenda
+"CRUZ KIM",82.79,21,1,"United States","Grand Prairie"
+"CULP THEODORE",116.69,31,0,India,Uluberia
+"CULPEPPER EUGENE",71.81,19,1,China,Shenzhen
+"CUNNINGHAM STACY",98.77,23,1,Colombia,Pereira
+"CURLEY STEVEN",132.71,29,1,India,Miraj
+"CURRIER NORMAN",80.74,26,1,Indonesia,Cianjur
+"CURTIS LEAH",104.75,25,1,Poland,Kalisz
+"DANIELS DANIELLE",105.75,25,1,Mexico,Hidalgo
+"DAVIDSON PATSY",119.72,28,1,Ecuador,Portoviejo
+"DAVIS JENNIFER",93.72,28,1,"United States",Laredo
+"DAY COURTNEY",132.68,32,1,"South Korea",Uijongbu
+"DEAN MARCIA",175.58,42,1,Philippines,Tanza
+"DELOACH ALVIN",139.71,29,1,Mexico,Cuauhtmoc
+"DELUCA RON",103.77,23,1,Japan,Isesaki
+"DELVALLE WADE",83.78,22,1,Switzerland,Lausanne
+"DEVORE HERMAN",115.71,29,1,Tanzania,Mwanza
+"DIAZ EMILY",91.76,24,1,"South Korea",Kimchon
+"DIXON AMBER",113.73,27,1,Taiwan,Touliu
+"DOUGLAS MARSHA",151.63,37,1,Mozambique,Beira
+"DOUGLASS SEAN",91.77,23,1,Ethiopia,"Addis Abeba"
+"DOWD LLOYD",66.81,19,1,Indonesia,Tegal
+"DUGGAN FREDDIE",99.75,25,1,Peru,Sullana
+"DUNCAN SAMANTHA",71.77,23,1,Mexico,Matamoros
+"DUNN ERIN",106.73,27,1,"Russian Federation",Ljubertsy
+"EAST JEFF",107.70,30,1,"Dominican Republic","San Felipe de Puerto Plata"
+"EASTER BEN",122.74,26,0,"Russian Federation",Kamyin
+"EBERT LEO",104.77,23,1,China,Dongying
+"EDWARDS JOYCE",130.72,28,1,"Saudi Arabia",Jedda
+"EGGLESTON JIMMIE",135.72,28,0,Poland,Wroclaw
+"ELLINGTON MELVIN",97.74,26,1,China,Laohekou
+"ELLIOTT KATIE",109.75,25,1,Kenya,Kisumu
+"ELLIS GRACE",139.67,33,1,Germany,Duisburg
+"ELROD JAVIER",135.68,32,1,Chad,NDjamna
+"ELY JARED",87.81,19,1,Indonesia,Purwakarta
+"EMMONS KURT",99.77,23,1,Japan,Kanazawa
+"ESTEP TRAVIS",110.75,25,1,"Saudi Arabia",al-Qatif
+"EVANS ANN",76.83,17,1,"Russian Federation",Niznekamsk
+"FARNSWORTH JOHN",137.69,31,1,India,Parbhani
+"FENNELL ALEXANDER",151.64,36,1,Italy,Bergamo
+"FERGUSON BERTHA",101.75,25,1,Nigeria,Ondo
+"FERNANDEZ MELINDA",80.83,17,1,Pakistan,"Mandi Bahauddin"
+"FIELDS VICKI",108.75,25,1,Germany,Witten
+"FISHER CINDY",113.71,29,1,Venezuela,Cuman
+"FLEMING MYRTLE",110.76,24,1,"Dominican Republic","Santiago de los Caballeros"
+"FLETCHER MAE",158.69,31,1,Spain,"Donostia-San Sebastin"
+"FLORES JULIA",134.68,32,1,Argentina,"La Plata"
+"FORD CRYSTAL",137.67,33,1,Israel,Ashdod
+"FORMAN MICHEAL",102.74,26,1,Argentina,Escobar
+"FORSYTHE ENRIQUE",96.72,28,1,Greece,Patras
+"FORTIER RAUL",100.80,20,1,India,Chapra
+"FORTNER HOWARD",93.74,26,1,Iran,Kermanshah
+"FOSTER PHYLLIS",91.77,23,1,China,Zalantun
+"FOUST JACK",89.76,24,1,"Russian Federation",Zeleznogorsk
+"FOWLER JO",73.80,20,1,Nigeria,Oyo
+"FOX HOLLY",114.69,31,1,India,Haldia
+"FRALEY JUAN",73.77,23,1,"Russian Federation",Teboksary
+"FRANCISCO JOEL",95.77,23,1,Bolivia,Sucre
+"FRANKLIN BETH",103.75,25,1,Vietnam,Haiphong
+"FRAZIER GLENDA",140.68,32,1,China,Qinhuangdao
+"FREEMAN SHANNON",100.76,24,1,India,"Varanasi (Benares)"
+"FULLER CLAUDIA",111.74,26,1,Kuwait,"Jalib al-Shuyukh"
+"FULTZ GERALD",121.70,30,1,India,Satna
+"GAFFNEY FELIX",73.76,24,1,Lithuania,Vilnius
+"GAITHER RANDY",110.72,28,1,"Russian Federation",Kurgan
+"GAMEZ CLARENCE",104.70,30,1,Japan,Izumisano
+"GANDY FLOYD",69.83,17,1,Mexico,Zapopan
+"GANNON JAMES",131.70,30,1,Japan,Hiroshima
+"GARCIA CAROL",91.78,22,1,Nigeria,Kaduna
+"GARDINER DAVE",134.68,32,1,China,Leshan
+"GARDNER JOANN",66.84,16,1,Turkey,Tarsus
+"GARRETT NELLIE",94.79,21,1,India,Shimoga
+"GARZA PEARL",76.78,22,1,India,Jodhpur
+"GAVIN BILL",114.72,28,1,"United States",Rockford
+"GEARY RUBEN",89.79,21,1,Poland,Lublin
+"GEORGE JOY",124.67,33,1,Romania,Botosani
+"GIBSON VICTORIA",111.73,27,1,Indonesia,Pemalang
+"GILBERT TANYA",144.67,33,1,"South Korea",Naju
+"GILLETTE DUSTIN",100.74,26,1,Netherlands,Emmen
+"GILLILAND JOE",138.71,29,1,Philippines,Imus
+"GILMAN DENNIS",114.72,28,1,"South Africa",Paarl
+"GOMEZ JOSEPHINE",109.74,26,1,India,Etawah
+"GONZALES NORMA",79.79,21,1,Philippines,Bislig
+"GONZALEZ MARTHA",127.66,34,1,Moldova,Chisinau
+"GOOCH ADAM",101.78,22,1,India,Adoni
+"GOODEN KENNETH",84.83,17,0,Israel,"Bat Yam"
+"GORDON LESLIE",89.78,22,1,Turkey,Kilis
+"GRAF DOUGLAS",114.75,25,1,Mexico,Mexicali
+"GRAHAM RITA",92.76,24,1,France,Toulon
+"GRANT MICHELE",130.70,30,1,China,Yuncheng
+"GRAVES BRANDY",122.72,28,1,"United States",Warren
+"GRAY JUDY",96.75,25,1,Algeria,Bchar
+"GRECO CHRISTOPHER",147.69,31,1,Italy,Brescia
+"GREEN VIRGINIA",129.68,32,1,France,Toulouse
+"GREENE JEANETTE",74.80,20,1,"Russian Federation",Novoterkassk
+"GREGORY SONIA",126.72,28,1,Nigeria,"Benin City"
+"GRESHAM ALEX",151.67,33,1,Mexico,Uruapan
+"GREY ROSS",99.73,27,1,Philippines,Iligan
+"GRIFFIN LILLIAN",106.75,25,1,"United Arab Emirates",al-Ayn
+"GRIGSBY THOMAS",105.75,25,1,"United States","Kansas City"
+"GRISSOM TERRY",72.80,20,1,Japan,Matsue
+"GRUBER ARMANDO",83.79,21,1,"United Kingdom",Southport
+"GUAJARDO HARVEY",93.78,22,1,Vietnam,Vinh
+"GUILLEN ERIK",118.71,29,1,India,Bhimavaram
+"GUNDERSON TERRENCE",117.70,30,1,China,Jinzhou
+"GUTIERREZ CARLA",103.74,26,1,India,Bhusawal
+"HALE RAMONA",129.70,30,1,India,Patiala
+"HALL JESSICA",152.66,34,1,"Holy See (Vatican City State)","Citt del Vaticano"
+"HAMILTON GLADYS",146.69,31,1,Nigeria,Ilorin
+"HANNON SETH",112.75,25,1,Bahrain,al-Manama
+"HANSEN DELORES",91.79,21,1,"Russian Federation",Jaroslavl
+"HANSON VIOLA",129.68,32,1,Philippines,Lapu-Lapu
+"HARDER GABRIEL",111.74,26,1,Turkey,Sivas
+"HARDISON BRYAN",124.72,28,1,"United States",Dallas
+"HARKINS BRENT",112.77,23,1,Turkey,Sultanbeyli
+"HARPER ROBERTA",84.77,23,1,Iran,"Shahr-e Kord"
+"HARRIS HELEN",134.68,32,1,India,Bhopal
+"HARRISON WENDY",91.70,30,1,Mexico,Nezahualcyotl
+"HART DANA",133.71,29,1,"Russian Federation",Kirovo-Tepetsk
+"HARVEY ARLENE",120.74,26,1,India,Ambattur
+"HAUSER COREY",101.78,22,1,Turkey,Gaziantep
+"HAVENS ARNOLD",167.67,33,1,Philippines,"Santa Rosa"
+"HAWKINS JILL",68.79,21,1,Austria,Linz
+"HAWKS LEE",119.73,27,1,India,Pudukkottai
+"HAYES ROBIN",102.76,24,1,"Russian Federation",Jelets
+"HEATON SHAWN",152.67,33,1,Thailand,"Nakhon Sawan"
+"HENDERSON ANDREA",93.78,22,1,Madagascar,Mahajanga
+"HENNING ALBERTO",66.79,21,1,Venezuela,Barcelona
+"HENRY PAULINE",98.73,27,1,Mexico,Torren
+"HERNANDEZ ANGELA",140.64,36,1,Japan,Shimonoseki
+"HERRERA NORA",118.72,28,1,Austria,Salzburg
+"HERRMANN TRACY",129.72,28,1,Ecuador,Loja
+"HERZOG CLAUDE",111.75,25,1,Angola,Benguela
+"HIATT EDUARDO",130.73,27,1,China,Jining
+"HICKS MONICA",128.70,30,1,Ukraine,Mukateve
+"HIDALGO MARCUS",115.70,30,1,Estonia,Tartu
+"HILL ANNA",91.79,21,1,Italy,Alessandria
+"HITE ZACHARY",146.69,31,1,"United States",Akron
+"HOFFMAN MATTIE",180.52,48,1,"United Kingdom",London
+"HOLLAND MABEL",112.70,30,1,Myanmar,Monywa
+"HOLM PHILLIP",101.74,26,1,Japan,Tama
+"HOLMES LUCILLE",108.72,28,1,"South Africa",Soshanguve
+"HOLT TONI",95.77,23,1,"United States",Roanoke
+"HOPKINS HILDA",122.71,29,1,Philippines,Mandaluyong
+"HORTON BILLIE",88.74,26,1,Turkey,Inegl
+"HOULE RAY",79.78,22,1,"Russian Federation",Dzerzinsk
+"HOWARD ROSE",103.78,22,1,"French Guiana",Cayenne
+"HOWELL WILLIE",101.74,26,1,Argentina,"Vicente Lpez"
+"HOWLAND MILTON",127.75,25,1,India,Vijayawada
+"HUDSON LAUREN",71.80,20,1,France,"Le Mans"
+"HUEY BRANDON",152.63,37,1,Turkey,Balikesir
+"HUGHES BONNIE",87.79,21,1,"South Korea",Cheju
+"HUNT ELEANOR",216.54,46,1,Runion,Saint-Denis
+"HUNTER CHARLOTTE",93.76,24,1,Brazil,"guas Lindas de Gois"
+"HURTADO JEREMY",103.72,28,1,Brazil,"Vitria de Santo Anto"
+"IRBY CURTIS",167.62,38,1,Canada,"Richmond Hill"
+"ISBELL FREDERICK",105.79,21,1,Japan,Tsuyama
+"ISOM DANNY",91.79,21,1,Pakistan,Okara
+"JACKSON KAREN",131.73,27,1,Turkey,Osmaniye
+"JACOBS GEORGIA",110.74,26,1,India,Uttarpara-Kotrung
+"JAMES KATHY",129.70,30,1,Philippines,Baybay
+"JENKINS LOUISE",101.75,25,1,"South Africa",Springs
+"JENNINGS NAOMI",152.65,35,1,India,Karnal
+"JENSEN LENA",168.68,32,1,India,Halisahar
+"JIMENEZ OLGA",144.68,32,1,Nigeria,Ogbomosho
+"JOHNSON PATRICIA",128.73,27,1,"United States","San Bernardino"
+"JOHNSTON KRISTIN",116.69,31,1,"United States",Sunnyvale
+"JONES BARBARA",81.78,22,1,Myanmar,Myingyan
+"JORDAN TIFFANY",59.86,14,1,China,Enshi
+"JORDON JERRY",143.71,29,1,Japan,Onomichi
+"JOY JOSEPH",134.70,30,1,Brazil,"Angra dos Reis"
+"JUNG CHRISTIAN",88.76,24,0,India,Amroha
+"KAHN ALAN",124.74,26,1,China,Emeishan
+"KELLEY ELSIE",141.63,37,1,Nigeria,Ikerre
+"KELLY DENISE",103.73,27,1,Brazil,"Rio Claro"
+"KENNEDY RHONDA",194.61,39,1,Netherlands,Apeldoorn
+"KENYON JEROME",73.84,16,1,Chile,Rancagua
+"KIM LILLIE",89.77,23,1,Egypt,Idfu
+"KINDER REGINALD",115.72,28,1,Indonesia,Madiun
+"KING MELISSA",123.66,34,1,Taiwan,Lungtan
+"KNIGHT GAIL",109.75,25,1,Switzerland,Bern
+"KNOTT KELLY",103.75,25,1,China,Sanya
+"KOWALSKI CHARLES",138.68,32,1,Malaysia,"Sungai Petani"
+"KRAUS LESTER",65.84,16,1,India,Kanchrapara
+"KRUGER HERBERT",78.80,20,1,"Russian Federation",Syktyvkar
+"LAMBERT MISTY",118.73,27,1,"United Arab Emirates",Sharja
+"LANCE JACOB",79.79,21,1,"United States","El Monte"
+"LANE RENEE",97.74,26,1,"United States",Compton
+"LARSON HEIDI",122.66,34,0,China,Xiangfan
+"LARUE DARYL",111.73,27,1,Iraq,Mosul
+"LAWRENCE LAURIE",99.77,23,1,India,Firozabad
+"LAWSON JEANNE",136.73,27,1,Turkmenistan,Ashgabat
+"LAWTON LAWRENCE",100.69,31,1,Cameroon,Yaound
+"LEE KIMBERLY",95.75,25,1,Argentina,Crdoba
+"LEONE LOUIS",161.65,35,1,Philippines,Tanauan
+"LEWIS SARAH",119.70,30,1,Latvia,Liepaja
+"LINTON GEORGE",131.67,33,1,Brazil,Sorocaba
+"LITTLE MAUREEN",87.79,21,1,Paraguay,Asuncin
+"LOMBARDI DWIGHT",74.83,17,1,"South Africa",Chatsworth
+"LONG JACQUELINE",148.67,33,1,Thailand,Songkhla
+"LOPEZ AMY",127.71,29,1,India,Jhansi
+"LOVELACE BARRY",134.67,33,1,Zambia,Kitwe
+"LOWE PRISCILLA",157.65,35,1,Mexico,Salamanca
+"LUCAS VELMA",117.73,27,1,Nigeria,Effon-Alaiye
+"LUMPKIN WILLARD",96.78,22,1,Mexico,Carmen
+"LYMAN LEWIS",86.81,19,1,Israel,Ashqelon
+"LYNCH JACKIE",93.75,25,1,Colombia,Buenaventura
+"MACKENZIE STEVE",158.66,34,1,Indonesia,Probolinggo
+"MADRIGAL RALPH",150.66,34,1,"Puerto Rico",Arecibo
+"MAHAN MATTHEW",114.69,31,1,Mexico,Cuautla
+"MAHON DONALD",89.77,23,1,China,Ezhou
+"MALCOLM CLIFTON",117.73,27,1,Taiwan,Tanshui
+"MARK JOSHUA",119.70,30,1,India,Rampur
+"MARKHAM WILLIE",101.75,25,1,Argentina,"Almirante Brown"
+"MARLOW SAMUEL",80.79,21,1,India,Ranchi
+"MARSHALL SHERRY",153.66,34,1,Egypt,"Shubra al-Khayma"
+"MARTEL CALVIN",111.77,23,1,Venezuela,Maracabo
+"MARTIN SANDRA",118.72,28,0,"United Kingdom",Southend-on-Sea
+"MARTINEZ RUTH",125.76,24,1,"South Africa",Kimberley
+"MARTINO HAROLD",130.68,32,1,Brazil,"Boa Vista"
+"MASON JUANITA",110.70,30,1,India,Pune
+"MATTHEWS ERICA",95.78,22,0,China,Pingxiang
+"MATTOX RICK",124.73,27,1,Egypt,"Mit Ghamr"
+"MAULDIN GREGORY",78.77,23,1,Tunisia,Sousse
+"MAY GWENDOLYN",98.75,25,1,Japan,Higashiosaka
+"MCADAMS ALFREDO",85.80,20,1,"Russian Federation",Serpuhov
+"MCALISTER RENE",113.74,26,1,"United States","Garden Grove"
+"MCCARTER MORRIS",139.66,34,1,Taiwan,Fengshan
+"MCCARTNEY JESUS",114.76,24,1,Brazil,Guaruj
+"MCCOY VERA",67.82,18,1,Afghanistan,Kabul
+"MCCRARY RICHARD",109.75,25,1,"United States",Arlington
+"MCCURDY BRAD",105.75,25,1,Taiwan,Chungho
+"MCDONALD EDITH",71.81,19,1,India,Gandhinagar
+"MCDUFFIE SAM",117.76,24,1,Colombia,Sogamoso
+"MCKINNEY MIRIAM",135.74,26,1,Japan,Otsu
+"MCWHORTER RAYMOND",135.70,30,1,Azerbaijan,Sumqayit
+"MEADOR RICARDO",99.79,21,1,Japan,Okayama
+"MEDINA DORA",107.77,23,1,China,Tianjin
+"MEEHAN CORY",81.76,24,1,Belarus,Mogiljov
+"MEEK ANTONIO",78.84,16,1,Brazil,Bag
+"MENA CASEY",141.66,34,1,Turkey,Tokat
+"MENARD PETER",106.77,23,1,Netherlands,Ede
+"MENDOZA MARIAN",107.77,23,1,Brazil,Maring
+"MEYER NATALIE",95.77,23,1,Brazil,"Aparecida de Goinia"
+"MILAM JESSIE",141.67,33,1,China,Binzhou
+"MILES BECKY",115.71,29,1,India,Tambaram
+"MILLARD SHANE",95.78,22,1,Mexico,"La Paz"
+"MILLER MARIA",151.67,33,1,Yugoslavia,Kragujevac
+"MILLS ALICIA",83.79,21,1,India,Nagaon
+"MILNER TOM",107.68,32,1,"United Arab Emirates","Abu Dhabi"
+"MITCHELL STEPHANIE",118.75,25,1,Armenia,Yerevan
+"MOELLER RODNEY",104.77,23,1,Nigeria,"Deba Habe"
+"MONTGOMERY STACEY",151.66,34,1,China,Fuyu
+"MOORE MARGARET",89.77,23,1,Oman,Masqat
+"MORALES ANITA",62.85,15,1,India,Hubli-Dharwad
+"MORENO STELLA",104.78,22,1,Mexico,"Coacalco de Berriozbal"
+"MORGAN EVELYN",114.72,28,1,Liechtenstein,Vaduz
+"MORRELL CRAIG",124.70,30,1,Philippines,Cavite
+"MORRIS HEATHER",115.70,30,1,Japan,Nagareyama
+"MORRISON BESSIE",132.72,28,1,Italy,Syrakusa
+"MORRISSEY JASON",128.72,28,1,Argentina,"Baha Blanca"
+"MOTLEY BRADLEY",126.73,27,1,India,"Purnea (Purnia)"
+"MURPHY CHERYL",133.73,27,1,India,Mysore
+"MURRAY THELMA",126.68,32,1,Peru,Lima
+"MURRELL MANUEL",116.70,30,1,"Sri Lanka",Jaffna
+"MYERS PEGGY",96.76,24,1,"Saudi Arabia",Abha
+"NEAL PENNY",68.82,18,0,India,Kumbakonam
+"NELSON DEBRA",141.71,29,1,Brazil,"Vila Velha"
+"NETTLES JAIME",126.71,29,1,Peru,Hunuco
+"NEUMANN RANDALL",99.77,23,1,"Dominican Republic","La Romana"
+"NEWSOM PATRICK",119.69,31,1,Vietnam,Hanoi
+"NGO JUSTIN",129.64,36,1,Brazil,"Santo Andr"
+"NGUYEN TAMARA",93.75,25,1,Brazil,Anpolis
+"NICHOLS SUZANNE",94.76,24,1,Indonesia,Jakarta
+"NOE ELMER",98.74,26,1,Cambodia,Battambang
+"NOLAND JULIO",89.79,21,1,Ukraine,Konotop
+"NOLEN CODY",98.78,22,1,Brazil,"So Bernardo do Campo"
+"OBRIEN LEONA",50.86,14,1,China,Fuzhou
+"OCAMPO MARION",115.71,29,1,China,Weifang
+"OGLESBY ISAAC",126.71,29,1,Mexico,Cuernavaca
+"OLIVARES JORGE",134.66,34,1,Indonesia,Lhokseumawe
+"OLIVER ELLA",137.69,31,1,Yemen,Aden
+"OLSON ANNETTE",98.76,24,1,India,"Allappuzha (Alleppey)"
+"OLVERA DWAYNE",101.78,22,1,India,Rajkot
+"ORTIZ SYLVIA",143.68,32,1,Colombia,"Dos Quebradas"
+"OUTLAW MARC",123.70,30,1,Italy,Brindisi
+"OWENS CARMEN",97.74,26,1,Venezuela,Caracas
+"PAINE DAN",109.78,22,1,"United Kingdom",Stockport
+"PALMER MEGAN",92.73,27,1,China,Laiwu
+"PARKER FRANCES",108.78,22,1,Brazil,"Juazeiro do Norte"
+"PATTERSON WANDA",145.70,30,1,Colombia,Sincelejo
+"PAYNE LYNN",123.72,28,1,Malawi,Lilongwe
+"PEARSON IRMA",70.82,18,1,Philippines,Hagonoy
+"PEMBERTON LANCE",82.78,22,1,Morocco,Beni-Mellal
+"PENA ERIKA",101.74,26,1,Finland,Oulu
+"PEREZ CAROLYN",117.70,30,1,Thailand,"Pak Kret"
+"PERKINS GERALDINE",112.70,30,1,Israel,"Tel Aviv-Jaffa"
+"PERRY SARA",141.67,33,1,Mexico,Atlixco
+"PERRYMAN WALTER",127.70,30,1,China,Xinxiang
+"PETERS SUE",154.60,40,1,China,Changzhou
+"PETERSON NICOLE",94.78,22,1,India,Shivapuri
+"PFEIFFER BOB",91.76,24,1,China,Xintai
+"PHILLIPS JANET",127.73,27,1,Chile,Antofagasta
+"PIERCE SALLY",119.68,32,1,India,Chandrapur
+"PINSON JEFFERY",121.69,31,1,Pakistan,Dadu
+"PITT MAX",107.76,24,1,Yugoslavia,"Novi Sad"
+"POINDEXTER HECTOR",119.74,26,1,"Russian Federation",Pjatigorsk
+"PORTER CARRIE",124.66,34,1,China,Liaocheng
+"POULIN BILLY",149.65,35,1,Philippines,Cabuyao
+"POWELL ANNE",87.77,23,1,"United Kingdom",Bradford
+"POWER DARRELL",91.75,25,1,Canada,Halifax
+"PREWITT KEN",110.71,29,1,Romania,Bucuresti
+"PRICE IRENE",77.77,23,1,Kazakstan,Pavlodar
+"PULLEN GLENN",93.77,23,1,Netherlands,Amersfoort
+"PURDY ANDREW",109.73,27,1,Azerbaijan,Baku
+"QUALLS STEPHEN",118.72,28,1,Bangladesh,Dhaka
+"QUIGLEY TROY",144.70,30,1,Canada,Vancouver
+"QUINTANILLA ROGER",146.64,36,1,Taiwan,Hsichuh
+"RALSTON VINCENT",105.75,25,1,Mexico,Allende
+"RAMIREZ CHRISTINA",80.82,18,1,"Saudi Arabia",al-Hawiya
+"RAMOS EVA",83.82,18,1,"United States",Clarksville
+"RAPP ANDRE",126.72,28,1,Chile,Coquimbo
+"RATCLIFF DALE",112.73,27,1,"South Africa",Rustenburg
+"RAY AUDREY",119.71,29,1,Austria,Graz
+"REA JIM",128.67,33,1,Mexico,"El Fuerte"
+"REED DORIS",100.78,22,1,"Russian Federation",Balaiha
+"REID CONSTANCE",95.75,25,1,Nigeria,Zaria
+"RENNER NEIL",152.68,32,1,Vietnam,"Cam Ranh"
+"REYES DEBBIE",130.68,32,1,Japan,Fukuyama
+"REYNOLDS ROSA",133.70,30,1,"United States",Lancaster
+"RHOADS EDGAR",95.75,25,1,Turkey,Eskisehir
+"RHODES SHERRI",128.67,33,1,India,Ahmadnagar
+"RICE JAMIE",139.71,29,1,"United States","Sterling Heights"
+"RICHARDS WILMA",91.80,20,1,"United States",Bellevue
+"RICHARDSON ASHLEY",112.75,25,1,"United States",Lincoln
+"RICKETTS RONNIE",100.75,25,1,Senegal,Ziguinchor
+"RICO KEITH",89.74,26,1,Slovakia,Bratislava
+"RILEY BRITTANY",159.72,28,1,Ukraine,Sumy
+"RINEHART MARK",104.74,26,1,"Saudi Arabia",Tabuk
+"RIVERA KATHERINE",58.86,14,1,Switzerland,Basel
+"ROBB JAY",89.74,26,1,Indonesia,Surakarta
+"ROBERT ERIC",122.73,27,1,Argentina,"Santa F"
+"ROBERTS CHRISTINE",99.76,24,1,"French Polynesia",Faaa
+"ROBERTSON JOANNE",127.66,34,1,Japan,Urawa
+"ROBINS GREG",141.70,30,1,Vietnam,"Nam Dinh"
+"ROBINSON SHARON",115.70,30,1,Pakistan,Mardan
+"RODRIGUEZ LAURA",113.78,22,1,Morocco,Sal
+"RODRIQUEZ VIOLET",142.70,30,1,"Hong Kong","Kowloon and New Kowloon"
+"ROGERS TERESA",128.71,29,1,Japan,Iwakuni
+"ROMERO MINNIE",142.66,34,1,Indonesia,Ciomas
+"ROSE DARLENE",113.69,31,1,"North Korea",Pyongyang
+"ROSS MARILYN",137.70,30,1,Nigeria,Ife
+"ROUSH TERRANCE",111.71,29,0,Hungary,Szkesfehrvr
+"ROYAL DAVID",115.74,26,1,Peru,Callao
+"RUIZ VIVIAN",90.77,23,1,Netherlands,s-Hertogenbosch
+"RUNYON NATHAN",122.68,32,0,"Virgin Islands, U.S.","Charlotte Amalie"
+"RUSSELL ANNIE",58.82,18,1,Mozambique,Tete
+"RYAN TARA",88.80,20,1,Indonesia,Gorontalo
+"SALISBURY RYAN",142.70,30,1,Latvia,Daugavpils
+"SANBORN GENE",97.73,27,1,Oman,Salala
+"SANCHEZ JULIE",107.71,29,1,Spain,"A Corua (La Corua)"
+"SANDERS TAMMY",155.59,41,1,Taiwan,Changhwa
+"SATTERFIELD WILLIAM",100.74,26,1,Yemen,Sanaa
+"SAUER DEAN",109.73,27,1,"South Africa",Johannesburg
+"SCARBOROUGH JONATHAN",72.82,18,1,Mexico,"Pachuca de Soto"
+"SCHILLING JESSE",101.74,26,1,"Congo, The Democratic Republic of the",Lubumbashi
+"SCHMIDT ROSEMARY",147.65,35,1,Turkey,Usak
+"SCHOFIELD LEONARD",109.68,32,1,Argentina,Tandil
+"SCHRADER JIMMY",105.71,29,1,"Russian Federation",Atinsk
+"SCHULER KEVIN",116.78,22,1,Nepal,Birgunj
+"SCHWAB ANTHONY",71.80,20,1,"American Samoa",Tafuna
+"SCHWARZ BRUCE",103.77,23,1,Japan,Okinawa
+"SCOTT REBECCA",89.76,24,1,Japan,Kurashiki
+"SCROGGINS STANLEY",139.70,30,1,Japan,Omiya
+"SEAL KARL",221.55,45,1,"United States","Cape Coral"
+"SELBY AARON",110.76,24,1,"Congo, The Democratic Republic of the",Mwene-Ditu
+"SEWARD LESLIE",152.65,35,1,Indonesia,Pontianak
+"SHANKS EARL",111.73,27,1,Japan,Iwatsuki
+"SHAW CLARA",195.58,42,1,Belarus,Molodetno
+"SHELBY RICKY",91.75,25,1,China,Junan
+"SHELLEY SCOTT",198.50,50,1,"United States",Aurora
+"SHELTON DIANNE",135.69,31,1,Iran,Tabriz
+"SHERROD WARREN",159.67,33,1,"Russian Federation",Usolje-Sibirskoje
+"SIKES FRANCIS",104.74,26,1,Mexico,"San Juan Bautista Tuxtepec"
+"SILVA MAXINE",116.68,32,1,Brazil,"Poos de Caldas"
+"SILVERMAN MICHAEL",127.71,29,1,China,Tiefa
+"SIMMONS TINA",133.72,28,1,Brazil,Goinia
+"SIMPKINS ARTHUR",155.68,32,1,"Russian Federation",Maikop
+"SIMPSON ELLEN",117.72,28,1,Brazil,Po
+"SIMS VANESSA",86.81,19,1,Germany,Siegen
+"SKIDMORE FRANCISCO",98.78,22,1,Brazil,"So Leopoldo"
+"SLEDGE GILBERT",129.72,28,1,"United Kingdom",York
+"SLONE WALLACE",109.75,25,1,Nigeria,Sokoto
+"SMITH MARY",118.68,32,1,Japan,Sasebo
+"SNYDER MARION",194.61,39,1,Brazil,"Santa Brbara dOeste"
+"SOTO NINA",123.71,29,1,India,"Palghat (Palakkad)"
+"SOUTH ROLAND",80.77,23,1,China,Yingkou
+"SPEAR JEFFREY",90.77,23,1,Indonesia,Ciparay
+"SPENCER CATHY",122.71,29,1,Japan,Kakamigahara
+"SPURLOCK KYLE",110.70,30,1,China,Shanwei
+"STANFIELD SERGIO",108.74,26,1,Mexico,Celaya
+"STANLEY ALLISON",92.73,27,1,Cambodia,"Phnom Penh"
+"STCLAIR KIRK",64.81,19,1,Taiwan,Tsaotun
+"STEPHENS LORRAINE",86.79,21,1,China,Hami
+"STEPP ERNEST",89.75,25,1,China,Huaian
+"STEVENS ELAINE",107.76,24,1,"Russian Federation",Smolensk
+"STEWART ALICE",138.67,33,1,"United States",Fontana
+"STILL IAN",96.73,27,1,"United States",Garland
+"STONE VERONICA",126.68,32,1,"United States",Greensboro
+"SULLIVAN DAWN",120.74,26,1,Tuvalu,Funafuti
+"SUTTON FELICIA",86.72,28,1,China,Korla
+"SWAFFORD PERRY",117.76,24,1,Argentina,Quilmes
+"TALBERT GLEN",113.74,26,1,Mexico,Acua
+"TAN TODD",117.71,29,1,Ukraine,Kamjanets-Podilskyi
+"TAYLOR DOROTHY",99.75,25,1,Iran,Esfahan
+"TEEL SALVADOR",129.70,30,1,Gambia,Banjul
+"TERRY JENNIE",133.71,29,1,"Czech Republic",Olomouc
+"THOMAS NANCY",103.72,28,1,India,"Yamuna Nagar"
+"THOMPSON DONNA",98.79,21,1,"Russian Federation",Elista
+"THORN MARSHALL",117.77,23,1,"United Kingdom",Southampton
+"THRASHER LARRY",112.74,26,1,Turkey,Adana
+"TIRADO LONNIE",94.82,18,1,Indonesia,"Pangkal Pinang"
+"TOBIAS CLYDE",115.71,29,1,China,Shaoguan
+"TOMLIN EDDIE",128.73,27,1,Philippines,Ozamis
+"TORRES KELLY",99.78,22,1,China,Xiangtan
+"TROUT PAUL",120.77,23,1,"Russian Federation",Kursk
+"TROUTMAN FRANKLIN",74.78,22,1,China,Zaoyang
+"TRUONG WAYNE",70.81,19,1,India,Gulbarga
+"TUBBS DUANE",148.69,31,1,Nauru,Yangor
+"TUCKER MARJORIE",127.68,32,1,Poland,Jastrzebie-Zdrj
+"TURNER MARIE",114.74,26,1,"Russian Federation",Lipetsk
+"TURPIN JOHNNY",57.81,19,1,Sudan,al-Qadarif
+"VANHORN ANDY",113.75,25,1,Mexico,"Huejutla de Reyes"
+"VARGAS CHRISTY",122.69,31,1,China,Datong
+"VARNEY BENJAMIN",95.77,23,1,Mexico,Guadalajara
+"VASQUEZ TERRI",126.73,27,1,Brazil,Blumenau
+"VEST JULIAN",109.72,28,1,Japan,Akishima
+"VU ROBERTO",139.70,30,1,China,Yinchuan
+"WADE MARGIE",159.64,36,1,China,Lengshuijiang
+"WAGGONER FRANK",127.68,32,1,Bangladesh,Jamalpur
+"WAGNER DOLORES",114.74,26,1,Malaysia,Ipoh
+"WALDROP HUGH",90.79,21,1,China,Haining
+"WALKER DEBORAH",115.71,29,1,Pakistan,Shikarpur
+"WALLACE CONNIE",100.77,23,1,"Russian Federation",Ivanovo
+"WALTERS CASSANDRA",129.70,30,1,"United States",Salinas
+"WARD JANICE",144.66,34,1,Sweden,Malm
+"WARREN HAZEL",110.66,34,1,China,Hohhot
+"WASHINGTON RUBY",110.72,28,1,China,Meixian
+"WATKINS YVONNE",92.79,21,1,Venezuela,"Ocumare del Tuy"
+"WATSON THERESA",99.70,30,1,Philippines,Taguig
+"WATTS SHELLY",113.74,26,1,"United States",Dayton
+"WAUGH JAMIE",118.75,25,1,Japan,Kuwana
+"WAY MIKE",166.65,35,1,India,Valparai
+"WEAVER YOLANDA",110.73,27,1,Tanzania,Tabora
+"WEBB ETHEL",135.68,32,1,"South Africa",Boksburg
+"WEINER RONALD",132.70,30,1,Mexico,"San Felipe del Progreso"
+"WELCH MARLENE",117.74,26,1,Japan,Iwaki
+"WELLS SHEILA",73.82,18,0,Turkey,Ktahya
+"WEST EDNA",107.74,26,1,"South Africa",Klerksdorp
+"WESTMORELAND MITCHELL",134.68,32,1,Vietnam,"Nha Trang"
+"WHEAT FRED",88.75,25,1,Mexico,Jurez
+"WHEELER LUCY",91.74,26,1,India,Balurghat
+"WHITE BETTY",117.72,28,1,"United States","Citrus Heights"
+"WHITING ROY",143.71,29,1,Kenya,Nyeri
+"WILES JON",87.76,24,1,Bolivia,"El Alto"
+"WILLIAMS LINDA",135.74,26,1,Greece,Athenai
+"WILLIAMSON GINA",111.72,28,1,Yemen,Taizz
+"WILLIS BERNICE",145.67,33,1,Turkey,Batman
+"WILSON SUSAN",92.76,24,1,"New Zealand",Hamilton
+"WINDHAM DARREN",108.76,24,1,Italy,Livorno
+"WOFFORD VIRGIL",107.73,27,1,Mexico,"Jos Azueta"
+"WOOD LORI",141.69,31,1,India,"Rae Bareli"
+"WOODS FLORENCE",126.70,30,1,Argentina,Merlo
+"WREN TYLER",88.79,21,1,China,Rizhao
+"WRIGHT BRENDA",104.74,26,1,India,Kamarhati
+"WYMAN BRIAN",52.88,12,1,Poland,Bydgoszcz
+"YANEZ LUIS",79.80,20,1,France,Brest
+"YEE MARVIN",75.79,21,1,India,"Berhampore (Baharampur)"
+"YOUNG CYNTHIA",111.68,32,1,India,"Munger (Monghyr)"

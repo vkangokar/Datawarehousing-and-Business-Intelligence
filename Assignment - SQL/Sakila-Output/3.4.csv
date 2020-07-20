@@ -1,0 +1,4 @@
+title,sum(p.amount),count(c.customer_id)
+"PUNK DIVORCE",889.84,216
+"ROMAN PUNK",2805.16,684
+"SEABISCUIT PUNK",3034.72,728

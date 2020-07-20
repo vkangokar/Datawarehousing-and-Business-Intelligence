@@ -1,0 +1,598 @@
+city,AVG(pay.amount),"dense_rank() over (order by AVG(pay.amount) desc)"
+Sumy,5.704286,1
+Naala-Porto,5.350000,2
+Birgunj,5.308182,3
+Halisahar,5.271250,4
+"Pangkal Pinang",5.267778,5
+Kursk,5.250870,6
+Kimberley,5.240000,7
+Athenai,5.220769,8
+Otsu,5.220769,8
+Sal,5.171818,9
+Memphis,5.137059,10
+Southampton,5.120435,11
+"Donostia-San Sebastin",5.119032,12
+Vijayawada,5.110000,13
+"Santa Rosa",5.080909,14
+Newcastle,5.076957,15
+Plock,5.073333,16
+Ashgabat,5.064074,17
+Bhilwara,5.052500,18
+Chapra,5.040000,19
+Tsuyama,5.037619,20
+Simferopol,5.028462,21
+Hodeida,5.021250,22
+Apeldoorn,4.990000,23
+"Santa Brbara dOeste",4.990000,23
+"Bat Yam",4.990000,23
+Sirjan,4.990000,23
+Stockport,4.990000,23
+Zhoushan,4.990000,23
+"Juiz de Fora",4.990000,23
+Onomichi,4.955517,24
+Nyeri,4.955517,24
+Mysore,4.952963,25
+"Juazeiro do Norte",4.944545,26
+Yantai,4.940000,27
+Denizli,4.934444,28
+Bag,4.927500,29
+"Cape Coral",4.923333,30
+Qomsheh,4.911053,31
+Sogamoso,4.906667,32
+Quilmes,4.906667,32
+Sultanbeyli,4.903043,33
+Ibirit,4.890000,34
+"Vila Velha",4.886552,35
+Osmaniye,4.878889,36
+Hino,4.878889,36
+Maikop,4.865000,37
+Maracabo,4.859565,38
+Sincelejo,4.856667,39
+Omdurman,4.847143,40
+Wroclaw,4.847143,40
+Jining,4.841852,41
+Usolje-Sibirskoje,4.838485,42
+Vancouver,4.823333,43
+"Sterling Heights",4.817586,44
+Cuauhtmoc,4.817586,44
+Emeishan,4.797692,45
+Yangor,4.796452,46
+Imus,4.783103,47
+Coatzacoalcos,4.783103,47
+Guaruj,4.781667,48
+Goinia,4.775714,49
+Joliet,4.775714,49
+"Cam Ranh",4.771250,50
+"San Bernardino",4.767778,51
+Ozamis,4.767778,51
+Brescia,4.764194,52
+"Coacalco de Berriozbal",4.762727,53
+Valparai,4.761429,54
+"Kowloon and New Kowloon",4.756667,55
+Daugavpils,4.756667,55
+"Mandi Bahauddin",4.754706,56
+Okayama,4.751905,57
+Yerevan,4.750000,58
+Kuwana,4.750000,58
+Syrakusa,4.740000,59
+Ilorin,4.731935,60
+Akron,4.731935,60
+Antofagasta,4.730741,61
+"Nam Dinh",4.723333,62
+Kamyin,4.720769,63
+Cayenne,4.717273,64
+Tonghae,4.710000,65
+Saint-Denis,4.707391,66
+Elista,4.704286,67
+Ruse,4.698333,68
+Blumenau,4.693704,69
+"Purnea (Purnia)",4.693704,69
+Skikda,4.692703,70
+Maring,4.685652,71
+Tianjin,4.685652,71
+Brockton,4.682308,72
+Erlangen,4.679655,73
+Jedda,4.668571,74
+Probolinggo,4.666471,75
+Clarksville,4.656667,76
+Molodetno,4.656667,76
+Omiya,4.656667,76
+Yinchuan,4.656667,76
+Talavera,4.656667,76
+Funafuti,4.643846,77
+Ambattur,4.643846,77
+Sawhaj,4.643846,77
+Baiyin,4.643846,77
+Ede,4.642174,78
+"San Lorenzo",4.642174,78
+Bhavnagar,4.642174,78
+York,4.632857,79
+Loja,4.632857,79
+Adoni,4.626364,80
+"Nakhon Sawan",4.626364,80
+Gaziantep,4.626364,80
+Rajkot,4.626364,80
+Purwakarta,4.621579,81
+"Mit Ghamr",4.619630,82
+Tanauan,4.618571,83
+"Santiago de los Caballeros",4.615000,84
+Mwene-Ditu,4.615000,84
+Rancagua,4.615000,84
+Kirovo-Tepetsk,4.610690,85
+Olomouc,4.610690,85
+Udaipur,4.605385,86
+Pjatigorsk,4.605385,86
+"Baha Blanca",4.597143,87
+Kragujevac,4.596061,88
+Uruapan,4.596061,88
+Ife,4.590000,89
+Bellevue,4.590000,89
+Mexicali,4.590000,89
+Balaiha,4.580909,90
+Miraj,4.576207,91
+"Rae Bareli",4.570645,92
+Siegen,4.568947,93
+Ashqelon,4.568947,93
+"Deba Habe",4.555217,94
+Dongying,4.555217,94
+Belm,4.552500,95
+"Huejutla de Reyes",4.550000,96
+"Santa F",4.545556,97
+Robamba,4.538387,98
+Xiangtan,4.535455,99
+Livorno,4.531667,100
+Iwaki,4.528462,101
+"Benin City",4.525714,102
+Coquimbo,4.525714,102
+Papeete,4.523333,103
+Sumqayit,4.523333,103
+Ogbomosho,4.521250,104
+Niznekamsk,4.519412,105
+"Shubra al-Khayma",4.519412,105
+Shimoga,4.513810,106
+Okinawa,4.511739,107
+Isesaki,4.511739,107
+Lincoln,4.510000,108
+al-Manama,4.510000,108
+Songkhla,4.505152,109
+Salamanca,4.504286,110
+Najafabad,4.504286,110
+Bijapur,4.502821,111
+"Citt del Vaticano",4.490000,112
+al-Hawiya,4.490000,112
+"Dos Quebradas",4.490000,112
+Smolensk,4.490000,112
+"Ciudad del Este",4.490000,112
+"Angra dos Reis",4.490000,112
+"So Leopoldo",4.490000,112
+"So Bernardo do Campo",4.490000,112
+"Novi Sad",4.490000,112
+Benguela,4.470000,113
+Fuyu,4.460588,114
+Lancaster,4.456667,115
+Dallas,4.454286,116
+Callao,4.451538,117
+Sagamihara,4.448333,118
+Tangail,4.447143,119
+Aden,4.441613,120
+Parbhani,4.441613,120
+Gorontalo,4.440000,121
+"Ourense (Orense)",4.440000,121
+Iwakuni,4.438276,122
+Lengshuijiang,4.434444,123
+Pudukkottai,4.434444,123
+Arecibo,4.431176,124
+al-Qatif,4.430000,125
+Huixquilucan,4.423333,126
+"San Felipe del Progreso",4.423333,126
+Avellaneda,4.423333,126
+Lilongwe,4.418571,127
+"Ocumare del Tuy",4.418571,127
+Kaliningrad,4.418571,127
+Batman,4.414242,128
+Lipetsk,4.413077,129
+Ipoh,4.413077,129
+"Richmond Hill",4.411053,130
+Tieli,4.411053,130
+Bydgoszcz,4.406667,131
+Jhansi,4.403793,132
+Miyakonojo,4.403793,132
+Tiefa,4.403793,132
+Chatsworth,4.401765,133
+Carmen,4.399091,134
+Owo,4.397407,135
+Sharja,4.397407,135
+Qinhuangdao,4.396250,136
+Bern,4.390000,137
+Kisumu,4.390000,137
+Hiroshima,4.390000,137
+Arlington,4.390000,137
+Florencia,4.390000,137
+Sokoto,4.390000,137
+Naju,4.383939,138
+Warren,4.382857,139
+Ivanovo,4.381304,140
+Tabriz,4.377097,141
+Dayton,4.374615,142
+Acua,4.374615,142
+"Garden Grove",4.374615,142
+Alessandria,4.370952,143
+Jaroslavl,4.370952,143
+Okara,4.370952,143
+Hunuco,4.369310,144
+Cuernavaca,4.369310,144
+Karnal,4.361429,145
+Pontianak,4.361429,145
+Effon-Alaiye,4.360370,146
+Tanshui,4.360370,146
+Yuncheng,4.356667,147
+Pingxiang,4.353636,148
+Gatineau,4.353636,148
+"La Paz",4.353636,148
+Witten,4.350000,149
+Czestochowa,4.350000,149
+Firozabad,4.337826,150
+Bamenda,4.337826,150
+"La Romana",4.337826,150
+Kanazawa,4.337826,150
+Adana,4.336154,151
+"Sungai Petani",4.333750,152
+Mannheim,4.332857,153
+Baybay,4.323333,154
+Pathankot,4.323333,154
+Salinas,4.323333,154
+Patiala,4.323333,154
+ostka,4.323333,154
+Haining,4.323333,154
+Banjul,4.323333,154
+Shivapuri,4.308182,155
+"Jalib al-Shuyukh",4.297692,156
+Sivas,4.297692,156
+Pereira,4.294348,157
+Sambhal,4.294348,157
+Atlixco,4.293030,158
+Binzhou,4.293030,158
+Mukateve,4.290000,159
+Serpuhov,4.290000,159
+Kuching,4.286296,160
+Jelets,4.281667,161
+Kolpino,4.279474,162
+Enshi,4.275714,163
+Portoviejo,4.275714,163
+Cabuyao,4.275714,163
+Lublin,4.275714,163
+Konotop,4.275714,163
+al-Ayn,4.270000,164
+"Palghat (Palakkad)",4.265862,165
+Mahajanga,4.262727,166
+Oshawa,4.262727,166
+Vinh,4.262727,166
+Uttarpara-Kotrung,4.259231,167
+Xinxiang,4.256667,168
+Malm,4.254706,169
+Zanzibar,4.249259,170
+Southend-on-Sea,4.240000,171
+Boksburg,4.240000,171
+Salzburg,4.240000,171
+Dhaka,4.240000,171
+NDjamna,4.240000,171
+Duisburg,4.232424,172
+Kakamigahara,4.231379,173
+Mandaluyong,4.231379,173
+Hidalgo,4.230000,174
+"Kansas City",4.230000,174
+Allende,4.230000,174
+Chungho,4.230000,174
+Rizhao,4.228095,175
+Merlo,4.223333,176
+Etawah,4.220769,177
+Usak,4.218571,178
+Touliu,4.212222,179
+Bergamo,4.212222,179
+Bhopal,4.208750,180
+"La Plata",4.208750,180
+"Nha Trang",4.208750,180
+Leshan,4.208750,180
+"Citrus Heights",4.204286,181
+Basel,4.204286,181
+Po,4.204286,181
+Fontana,4.202121,182
+Tarlac,4.200526,183
+"Varanasi (Benares)",4.198333,184
+Moscow,4.195882,185
+Ciomas,4.195882,185
+Hubli-Dharwad,4.190000,186
+Kalisz,4.190000,186
+Celaya,4.182308,187
+Cheju,4.180476,188
+Asuncin,4.180476,188
+Tanza,4.180476,188
+Tarsus,4.177500,189
+Rustenburg,4.175185,190
+Kaduna,4.171818,191
+Ashdod,4.171818,191
+Braslia,4.171818,191
+Tokat,4.166471,192
+Nanyang,4.163913,193
+"Aparecida de Goinia",4.163913,193
+Roanoke,4.163913,193
+Guadalajara,4.163913,193
+Sucre,4.163913,193
+Zhezqazghan,4.162414,194
+Faaa,4.156667,195
+Cavite,4.156667,195
+Suihua,4.156667,195
+Haiphong,4.150000,196
+Yuzhou,4.150000,196
+Sanya,4.150000,196
+Uijongbu,4.146250,197
+Klerksdorp,4.143846,198
+Tuguegarao,4.143846,198
+Pemalang,4.138148,199
+Iwatsuki,4.138148,199
+Mosul,4.138148,199
+Hami,4.132857,200
+Madiun,4.132857,200
+Graz,4.127931,201
+Valencia,4.126364,202
+Balikesir,4.125135,203
+Brindisi,4.123333,204
+Qalyub,4.120435,205
+"Allappuzha (Alleppey)",4.115000,206
+Kanchrapara,4.115000,206
+Zapopan,4.107647,207
+Fengshan,4.107647,207
+Nador,4.101111,208
+Ktahya,4.101111,208
+Tabora,4.101111,208
+Nukualofa,4.101111,208
+Beira,4.098108,209
+Vaduz,4.097143,210
+Trshavn,4.097143,210
+Paarl,4.097143,210
+Rockford,4.097143,210
+Bhimavaram,4.093448,211
+Davao,4.086774,212
+Hoshiarpur,4.085238,213
+Fukuyama,4.083750,214
+"Boa Vista",4.083750,214
+Kilis,4.080909,215
+Kitwe,4.080909,215
+"Siliguri (Shiliguri)",4.078235,216
+Amersfoort,4.076957,217
+Chiayi,4.073333,218
+Hsichuh,4.073333,218
+Springs,4.070000,219
+Ondo,4.070000,219
+"Almirante Brown",4.070000,219
+Baku,4.064074,220
+Johannesburg,4.064074,220
+Kamjanets-Podilskyi,4.058966,221
+Baicheng,4.058966,221
+Satna,4.056667,222
+Toulouse,4.052500,223
+Lapu-Lapu,4.052500,223
+Nuuk,4.048824,224
+"Pachuca de Soto",4.045556,225
+"Dhule (Dhulia)",4.035455,226
+Abha,4.031667,227
+Ziguinchor,4.030000,228
+Kamarhati,4.028462,229
+Tabuk,4.028462,229
+"San Juan Bautista Tuxtepec",4.028462,229
+Batna,4.025714,230
+Esfahan,3.990000,231
+Liepaja,3.990000,231
+Shikarpur,3.990000,231
+Zalantun,3.990000,231
+Jastrzebie-Zdrj,3.990000,231
+Nagaon,3.990000,231
+Jinchang,3.990000,231
+Bhusawal,3.990000,231
+Taizz,3.990000,231
+Tambaram,3.990000,231
+Sorocaba,3.990000,231
+Jamalpur,3.990000,231
+Rampur,3.990000,231
+"Addis Abeba",3.990000,231
+Brest,3.990000,231
+Mwanza,3.990000,231
+Shaoguan,3.990000,231
+Southport,3.990000,231
+"Jos Azueta",3.990000,231
+Weifang,3.990000,231
+Sullana,3.990000,231
+Aurora,3.970000,232
+Lhokseumawe,3.960588,233
+Lima,3.958750,234
+Greensboro,3.958750,234
+Datong,3.957742,235
+Meixian,3.954286,236
+Kurgan,3.954286,236
+Bilbays,3.954286,236
+Ljubertsy,3.952963,237
+Escobar,3.951538,238
+Jaipur,3.950000,239
+Higashiosaka,3.950000,239
+Jakarta,3.948333,240
+s-Hertogenbosch,3.946522,241
+Ciparay,3.946522,241
+"Grand Prairie",3.942381,242
+Syktyvkar,3.940000,243
+Udine,3.937368,244
+Hagonoy,3.934444,245
+Korolev,3.925484,246
+Dadu,3.925484,246
+"Pak Kret",3.923333,247
+Jinzhou,3.923333,247
+Cuman,3.921034,248
+"Nabereznyje Telny",3.921034,248
+"Valle de la Pascua",3.918571,249
+Akishima,3.918571,249
+"Augusta-Richmond County",3.915926,250
+"Vicente Lpez",3.913077,251
+Oulu,3.913077,251
+Tama,3.913077,251
+Lubumbashi,3.913077,251
+Shimonoseki,3.906667,252
+"guas Lindas de Gois",3.906667,252
+Masqat,3.903043,253
+Idfu,3.903043,253
+Ezhou,3.903043,253
+Ahmadnagar,3.899091,254
+"El Fuerte",3.899091,254
+Halle/Saale,3.893226,255
+Jaffna,3.890000,256
+"Santiago de Compostela",3.890000,256
+Soshanguve,3.882857,257
+Sanaa,3.874615,258
+Emmen,3.874615,258
+Bchar,3.870000,259
+Kingstown,3.870000,259
+Hamilton,3.865000,260
+Toulon,3.865000,260
+Changzhou,3.865000,260
+Hanoi,3.860968,261
+Mardan,3.856667,262
+Nagareyama,3.856667,262
+Tartu,3.856667,262
+Kamakura,3.853636,263
+Gijn,3.853636,263
+Szkesfehrvr,3.852069,264
+Ranchi,3.847143,265
+"Rio Claro",3.841852,266
+Ponce,3.841852,266
+Namibe,3.841852,266
+Monclova,3.836154,267
+"Charlotte Amalie",3.833750,268
+Crdoba,3.830000,269
+Zaria,3.830000,269
+Eskisehir,3.830000,269
+Ikerre,3.827838,270
+Kimchon,3.823333,271
+Kumbakonam,3.823333,271
+Manchester,3.823333,271
+Xintai,3.823333,271
+Bucuresti,3.817586,272
+Bradford,3.816087,273
+Lausanne,3.808182,274
+Nantou,3.805789,275
+Bislig,3.799524,276
+"El Monte",3.799524,276
+Battambang,3.797692,277
+Tychy,3.795556,278
+Changhwa,3.794878,279
+Gandhinagar,3.779474,280
+Shenzhen,3.779474,280
+Botosani,3.777879,281
+Kabul,3.767778,282
+Sunnyvale,3.764194,283
+Uluberia,3.764194,283
+Beni-Mellal,3.762727,284
+London,3.760833,285
+Caracas,3.759231,286
+Compton,3.759231,286
+Laohekou,3.759231,286
+"Tel Aviv-Jaffa",3.756667,287
+Monywa,3.756667,287
+Chisinau,3.754706,288
+Urawa,3.754706,288
+Anpolis,3.750000,289
+Buenaventura,3.750000,289
+Kurashiki,3.740000,290
+Chandrapur,3.740000,290
+Novoterkassk,3.740000,290
+Zeleznogorsk,3.740000,290
+Gulbarga,3.726842,291
+Alvorada,3.720769,292
+Myingyan,3.717273,293
+"A Corua (La Corua)",3.714138,294
+Bayugan,3.710000,295
+Sasebo,3.708750,296
+Tongliao,3.708750,296
+"Yamuna Nagar",3.704286,297
+"Vitria de Santo Anto",3.704286,297
+Haldia,3.699677,298
+Cuautla,3.699677,298
+Amroha,3.698333,299
+Iligan,3.693704,300
+Pune,3.690000,301
+Oyo,3.690000,301
+Shanwei,3.690000,301
+"Saint Louis",3.685652,302
+"Shahr-e Kord",3.685652,302
+Junan,3.670000,303
+Halifax,3.670000,303
+Pyongyang,3.667419,304
+Liaocheng,3.666471,305
+Torren,3.656667,306
+Saarbrcken,3.656667,306
+"El Alto",3.656667,306
+"Poos de Caldas",3.646250,307
+Atinsk,3.645172,308
+Dundee,3.643846,309
+Matsue,3.640000,310
+Lungtan,3.637059,311
+Fuzhou,3.632857,312
+Dzerzinsk,3.626364,313
+Peoria,3.623333,314
+Salala,3.619630,315
+Ueda,3.615000,316
+"Berhampore (Baharampur)",3.609048,317
+Xiangfan,3.607647,318
+Kermanshah,3.605385,319
+"Santo Andr",3.601111,320
+Araatuba,3.597143,321
+"Le Mans",3.590000,322
+Tafuna,3.590000,322
+Huaian,3.590000,322
+"San Felipe de Puerto Plata",3.590000,322
+Katihar,3.590000,322
+Garland,3.582593,323
+Jurez,3.550000,324
+Balurghat,3.528462,325
+"Stara Zagora",3.528462,325
+Tegal,3.516316,326
+Koriyama,3.513810,327
+Yingkou,3.511739,328
+"Munger (Monghyr)",3.490000,329
+Jodhpur,3.490000,329
+Izumisano,3.490000,329
+Gingoog,3.490000,329
+Patras,3.454286,330
+Bratislava,3.451538,331
+Surakarta,3.451538,331
+"San Miguel de Tucumn",3.448333,332
+Arak,3.434444,333
+Laiwu,3.434444,333
+"Phnom Penh",3.434444,333
+Tandil,3.427500,334
+Sousse,3.424783,335
+Botshabelo,3.418571,336
+Inegl,3.413077,337
+Tsaotun,3.411053,338
+Mogiljov,3.406667,339
+Zaoyang,3.399091,340
+Tallahassee,3.390000,341
+Pavlodar,3.381304,342
+"Valle de Santiago",3.365000,343
+"Abu Dhabi",3.365000,343
+Laredo,3.347143,344
+Luzinia,3.337826,345
+Ezeiza,3.337826,345
+Taguig,3.323333,346
+Linz,3.275714,347
+Tete,3.267778,348
+Hohhot,3.254706,349
+Yaound,3.248065,350
+"Bandar Seri Begawan",3.247143,351
+Teboksary,3.207391,352
+Barcelona,3.180476,353
+Matamoros,3.120435,354
+Cianjur,3.105385,355
+Korla,3.097143,356
+Vilnius,3.073333,357
+Nezahualcyotl,3.056667,358
+Daxian,3.050606,359
+"South Hill",3.047143,360
+al-Qadarif,3.042632,361
